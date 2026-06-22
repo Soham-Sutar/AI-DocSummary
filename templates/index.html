@@ -20,17 +20,39 @@
     <!-- Main Chat Area -->
     <main id="chat-area">
       <header>
-        <h1>AI Assistant</h1>
+        <h1>📝 Document ChatBot</h1>
         <button id="theme-toggle">☀️</button>
       </header>
+
+      <!-- File Upload Section -->
+      <section id="upload-section">
+        <div class="upload-container">
+          <input type="file" id="file-input" accept=".txt,.pdf,.docx" />
+          <button id="upload-btn">Upload Document</button>
+          <span id="file-status"></span>
+        </div>
+        
+        <!-- Mode Selection -->
+        <div class="mode-selector" id="mode-selector" style="display: none;">
+          <label>
+            <input type="radio" name="mode" value="ask" checked> Ask Questions
+          </label>
+          <label>
+            <input type="radio" name="mode" value="summarize"> Summarize Document
+          </label>
+        </div>
+      </section>
 
       <section id="chat-container">
         <div id="chat-box"></div>
       </section>
 
       <footer>
-        <input type="text" id="user-input" placeholder="Type your question..." />
-        <button id="send-btn">Send</button>
+        <div id="input-container" style="display: none;">
+          <input type="text" id="user-input" placeholder="Type your question..." />
+          <button id="send-btn">Send</button>
+          <button id="summarize-btn" style="display: none;">Summarize</button>
+        </div>
       </footer>
     </main>
   </div>
