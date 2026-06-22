@@ -1,0 +1,29 @@
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password." Follow the instructions sent to your registered email to create a new password.
+
+Q: How can I contact customer support?
+A: You can reach customer support by emailing support@example.com or calling +1-800-123-4567. Support is available Monday to Friday, 9 AM to 6 PM.
+
+Q: What is your refund policy?
+A: We offer a full refund within 7 days of purchase if the product is defective or you are not satisfied. After 7 days, refunds are not guaranteed.
+
+Q: How do I track my order?
+A: Once your order is shipped, you will receive a tracking link via email. You can also check your order status in the "My Orders" section of your account.
+
+Q: Can I change my subscription plan?
+A: Yes, you can upgrade or downgrade your subscription anytime by visiting the "Subscription Settings" page in your account.
+
+Q: How do I cancel my subscription?
+A: To cancel your subscription, log into your account, go to "Subscription Settings," and select "Cancel Subscription." Your subscription will remain active until the end of your current billing cycle.
+
+Q: Do you charge for cancellations?
+A: No, we do not charge any cancellation fees. You can cancel your subscription at any time without penalties.
+
+Q: What payment methods do you accept?
+A: We accept major credit cards (Visa, MasterCard, American Express), PayPal, and digital wallets such as Apple Pay and Google Pay.
+
+Q: How long does it take to process a refund?
+A: Refunds are usually processed within 5–7 business days, depending on your payment provider.
+
+Q: Can I change my delivery address after placing an order?
+A: Yes, you can change your delivery address within 24 hours of placing the order by contacting customer support.

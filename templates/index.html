@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Document Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="dark">
+  <div id="app">
+    <!-- Sidebar -->
+    <aside id="sidebar">
+      <h2>📄 DocBot</h2>
+      <p class="tagline">Ask questions from your documents.</p>
+      <nav>
+        <button class="nav-btn active">Chat</button>
+      </nav>
+    </aside>
+
+    <!-- Main Chat Area -->
+    <main id="chat-area">
+      <header>
+        <h1>AI Assistant</h1>
+        <button id="theme-toggle">☀️</button>
+      </header>
+
+      <section id="chat-container">
+        <div id="chat-box"></div>
+      </section>
+
+      <footer>
+        <input type="text" id="user-input" placeholder="Type your question..." />
+        <button id="send-btn">Send</button>
+      </footer>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

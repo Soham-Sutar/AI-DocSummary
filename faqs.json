@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the refund policy?",
+        "answer": "You can request a refund within 30 days of purchase. Refunds are processed within 5-7 business days."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "Click 'Forgot password' on the login page and follow the instructions to reset your password."
+    },
+    {
+        "question": "What are the support hours?",
+        "answer": "Support is available Monday to Friday, 9 AM to 6 PM."
+    },
+    {
+        "question": "How do I contact customer service?",
+        "answer": "Email us at support@example.com or call +1-555-1234."
+    },
+    {
+        "question": "Where can I find the user manual?",
+        "answer": "The user manual is available on the 'Docs' section of our website, under 'User Guide'."
+    }
+]
